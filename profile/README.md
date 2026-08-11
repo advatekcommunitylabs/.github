@@ -1,6 +1,6 @@
 # Advatek Community Labs
 
-Community Projects for Advatek Lighting's PixLite Mk3 LED pixel controllers.
+Community Projects for Advatek Lighting's PixLite Mk3 LED controllers.
 
 ## Public projects
 
