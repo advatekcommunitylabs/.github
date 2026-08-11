@@ -1,7 +1,6 @@
 # Advatek Labs
 
-Developer resources for Advatek Lighting's PixLite LED pixel controllers,
-including official documentation and clearly labelled community projects.
+Community Projects for Advatek Lighting's PixLite LED pixel controllers
 
 ## Public projects
 
