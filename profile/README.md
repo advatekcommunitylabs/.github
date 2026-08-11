@@ -11,8 +11,8 @@ Community Projects for Advatek Lighting's PixLite LED pixel controllers.
 
 ## Support boundaries
 
-Each repository states whether it is an official resource or a community
-project. Community projects are provided for experimentation and are not
+Each repository contains details of each community project.
+Community projects are provided for experimentation and are not
 covered by Advatek Technical Support unless the repository explicitly says
 otherwise.
 
@@ -21,5 +21,5 @@ For Advatek Lighting products, official documentation and support, visit
 
 ## Contributing
 
-Issues and pull requests are welcome where they are enabled. Check the target
+Issues and pull requests are welcome where enabled. Check the target
 repository's README and contributing guidance before proposing a change.
