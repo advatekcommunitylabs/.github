@@ -1,12 +1,12 @@
-# Advatek Labs
+# Advatek Community Labs
 
-Community Projects for Advatek Lighting's PixLite LED pixel controllers.
+Community Projects for Advatek Lighting's PixLite Mk3 LED pixel controllers.
 
 ## Public projects
 
 | Project | Status | Purpose |
 | --- | --- | --- |
-| [PixLite Mk3 Contact Trigger](https://github.com/advateklabs/PixLite-Mk3-Contact-Trigger) | Community beta | Turns physical switches and relay contacts into PixLite Mk3 scene, playlist, intensity and test mode actions. |
+| [PixLite Mk3 Contact Trigger](https://github.com/advateklabs/PixLite-Mk3-Contact-Trigger) | Community hardware project | Turns physical switches and relay contacts into PixLite Mk3 scene, playlist, intensity and test mode actions. |
 | [PixLite Mk3 TouchDesigner](https://github.com/advateklabs/PixLite-Mk3-TouchDesigner) | Unofficial community project | Connects TouchDesigner to PixLite Mk3 controllers for real-time control and pixel-data workflows. |
 
 ## Support boundaries
@@ -23,3 +23,5 @@ For Advatek Lighting products, official documentation and support, visit
 
 Issues and pull requests are welcome where enabled. Check the target
 repository's README and contributing guidance before proposing a change.
+
+Reach out to the Advatek support team to start a new project.
