@@ -1,2 +1,2 @@
 # .github
-Advatek Labs organisation profile and community health files.
+Advatek Community Labs organisation profile and shared GitHub files.
