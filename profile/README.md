@@ -2,9 +2,11 @@
   <img src="assets/advatek-community-labs.png" alt="Advatek Community Labs" width="100%">
 </p>
 
-Community projects for Advatek Lighting's PixLite Mk3 LED controllers.
+Community-driven projects, tools, and resources for Advatek products. Not officially supported by Advatek Lighting.
 
 ## Public projects
+
+Community projects for Advatek products.
 
 | Project | Status | Purpose |
 | --- | --- | --- |
