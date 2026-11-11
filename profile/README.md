@@ -22,7 +22,7 @@ Community projects for Advatek products.
 
 ## Projects now maintained upstream
 
-**[PixLite Mk3 for Bitfocus Companion](https://github.com/bitfocus/companion-module-advatek-pixlite-mk3)**: v0.1.2 is the current Bitfocus-approved live module release, approved on 11 November 2026 and distributed through Companion's module catalogue. It adds SHOWTime scene, playlist and playback controls with controller feedback. Use the Bitfocus repository for source, documentation, issues and future updates; a separate Labs installation is not required. The GitHub release is currently labelled pre-release, separately from Bitfocus's catalogue approval.
+**[PixLite Mk3 for Bitfocus Companion](https://github.com/bitfocus/companion-module-advatek-pixlite-mk3)**: Control commissioned PixLite Mk3 controllers from Companion, with ADAR discovery, SHOWTime playback, intensity, colour recalls and device feedback. Available through Companion's module catalogue and maintained in the Bitfocus organisation. Use the Bitfocus repository for source, installation guidance, issues and releases.
 
 ## Support boundaries
 
@@ -44,3 +44,4 @@ repository's README and contributing guidance before proposing a change.
 
 
 Contact Advatek to propose a new community project.
+
