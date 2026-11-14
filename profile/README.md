@@ -20,11 +20,16 @@ Community projects for Advatek products.
 | [PixLite Mk3 Loxone](https://github.com/advatekcommunitylabs/PixLite-Mk3-Loxone) | Work in progress | Product Management prototype to help customers and integrators explore native Loxone control of PixLite Mk3 SHOWTime. |
 
 
-## Projects now maintained upstream
+<a name="projects-now-maintained-upstream"></a>
 
-**[PixLite Mk3 for Bitfocus Companion](https://github.com/bitfocus/companion-module-advatek-pixlite-mk3)**: Control commissioned PixLite Mk3 controllers from Companion, with ADAR discovery, SHOWTime playback, intensity, colour recalls and device feedback. Available through Companion's module catalogue and maintained in the Bitfocus organisation. Use the Bitfocus repository for source, installation guidance, issues and releases.
+## Maintained upstream systems
 
-**[PixLite Mk3 for Chataigne](https://github.com/JamesAdvatek/PixLite-Mk3-Chataigne)**: Community beta for triggering stored SHOWTime scenes and playlists from Chataigne, with playback controls and status feedback. Listed in [Chataigne's community module catalogue](https://github.com/benkuper/Chataigne-community-modules). Uses the native WebSocket client with operator access and no local bridge. See the module README for required Chataigne builds and current limitations.
+Integrations distributed through other platforms. Check each repository for compatible versions, installation and support.
+
+| **Project** | **Status** | **Purpose** |
+| --- | --- | --- |
+| [PixLite Mk3 for Bitfocus Companion](https://github.com/bitfocus/companion-module-advatek-pixlite-mk3) | Available in Companion | Discover controllers and control SHOWTime playback, intensity and colour, with device feedback. |
+| [PixLite Mk3 for Chataigne](https://github.com/JamesAdvatek/PixLite-Mk3-Chataigne) | Community beta ([catalogue](https://github.com/benkuper/Chataigne-community-modules)) | Trigger stored SHOWTime scenes and playlists from Chataigne, with playback controls and status feedback. |
 
 ## Support boundaries
 
