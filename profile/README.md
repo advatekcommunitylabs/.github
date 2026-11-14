@@ -24,6 +24,8 @@ Community projects for Advatek products.
 
 **[PixLite Mk3 for Bitfocus Companion](https://github.com/bitfocus/companion-module-advatek-pixlite-mk3)**: Control commissioned PixLite Mk3 controllers from Companion, with ADAR discovery, SHOWTime playback, intensity, colour recalls and device feedback. Available through Companion's module catalogue and maintained in the Bitfocus organisation. Use the Bitfocus repository for source, installation guidance, issues and releases.
 
+**[PixLite Mk3 for Chataigne](https://github.com/JamesAdvatek/PixLite-Mk3-Chataigne)**: Community beta for triggering stored SHOWTime scenes and playlists from Chataigne, with playback controls and status feedback. Listed in [Chataigne's community module catalogue](https://github.com/benkuper/Chataigne-community-modules). Uses the native WebSocket client with operator access and no local bridge. See the module README for required Chataigne builds and current limitations.
+
 ## Support boundaries
 
 
