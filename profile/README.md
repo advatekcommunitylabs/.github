@@ -17,7 +17,10 @@ Community projects for Advatek products.
 | [PixLite Mk3 Contact Trigger](https://github.com/advatekcommunitylabs/PixLite-Mk3-Contact-Trigger) | Community hardware project | Turns physical switches and relay contacts into PixLite Mk3 scene, playlist, intensity and test mode actions. |
 | [PixLite Mk3 TouchDesigner](https://github.com/advatekcommunitylabs/PixLite-Mk3-TouchDesigner) | Community software project | Connects TouchDesigner to PixLite Mk3 controllers for real-time control and pixel-data workflows. |
 | [PixLite Mk3 Loxone](https://github.com/advatekcommunitylabs/PixLite-Mk3-Loxone) | Work in progress | Product Management prototype to help customers and integrators explore native Loxone control of PixLite Mk3 SHOWTime. |
+| [PixLite Mk3 Home Assistant](https://github.com/advatekcommunitylabs/PixLite-Mk3-Home-Assistant) | [Community beta](https://github.com/advatekcommunitylabs/PixLite-Mk3-Home-Assistant/releases/tag/v0.4.1-beta.1) | Prototype for local pixel brightness, colour, SHOWTime playback and controller health monitoring in Home Assistant. |
 
+
+The Home Assistant beta is a prototype built by Advatek product managers and product specialists, using Codex for implementation and code review alongside hardware testing. It is an experimental foundation for community feedback, not a release from Advatek's engineering team or an official, production-ready or HA-approved integration. [Read the current position and join the feedback discussion](https://community.home-assistant.io/t/advatek-pixlite-mk3-integration-beta-community-feedback-wanted/1034575). The prerelease notes describe the verification performed and remaining limitations.
 
 <a name="projects-now-maintained-upstream"></a>
 
